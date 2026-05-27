@@ -1,5 +1,5 @@
 # 🧠 Gender Recognition AI (Custom CNN)
-
+> dans ce git il n'y a pas les images car il y en a 7000 :)
 > Une Intelligence Artificielle de classification d'images capable de distinguer les genres (Homme/Femme) avec une précision de **~95%**, entraînée **"from scratch"** sur un dataset de 7000 images d'homme et de femme.
 
 ---
@@ -55,8 +55,6 @@ Le modèle a été entraîné sur environ **7 000 images** (3 500 Hommes / 3 500
 * **Précision Finale (Validation) :** `94.74%` 🎯
 * **Perte (Loss) :** `0.19`
 * **Temps d'entraînement :** ~45 époques (Arrêt automatique via EarlyStopping).
-
-> **Note :** L'écart entre l'entraînement (97%) et la validation (95%) est minime (< 3%), ce qui démontre une excellente généralisation et une absence de surapprentissage majeur.
 
 ---
 
